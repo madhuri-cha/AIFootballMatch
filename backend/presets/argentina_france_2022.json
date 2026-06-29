@@ -1,0 +1,107 @@
+{
+  "matchId": "argentina_france_2022",
+  "homeTeam": "Argentina",
+  "awayTeam": "France",
+  "homeScore": 3,
+  "awayScore": 3,
+  "homePenalties": 4,
+  "awayPenalties": 2,
+  "date": "December 18, 2022",
+  "competition": "FIFA World Cup Final",
+  "venue": "Lusail Stadium, Lusail, Qatar",
+  "stats": {
+    "possession": { "home": 54, "away": 46 },
+    "shots": { "home": 20, "away": 10 },
+    "shotsOnTarget": { "home": 10, "away": 5 },
+    "xG": { "home": 3.28, "away": 2.15 },
+    "passes": { "home": 635, "away": 522 },
+    "passAccuracy": { "home": 85, "away": 81 },
+    "fouls": { "home": 26, "away": 19 },
+    "yellowCards": { "home": 5, "away": 3 },
+    "redCards": { "home": 0, "away": 0 }
+  },
+  "homeFormation": "4-3-3",
+  "awayFormation": "4-2-3-1",
+  "homeLineup": [
+    { "name": "E. Martínez", "number": 23, "position": "GK", "x": 50, "y": 90 },
+    { "name": "Molina", "number": 26, "position": "RB", "x": 85, "y": 70 },
+    { "name": "Romero", "number": 13, "position": "CB", "x": 65, "y": 75 },
+    { "name": "Otamendi", "number": 19, "position": "CB", "x": 35, "y": 75 },
+    { "name": "Tagliafico", "number": 3, "position": "LB", "x": 15, "y": 70 },
+    { "name": "De Paul", "number": 7, "position": "RCM", "x": 70, "y": 55 },
+    { "name": "Enzo Fernández", "number": 24, "position": "DM", "x": 50, "y": 60 },
+    { "name": "Mac Allister", "number": 20, "position": "LCM", "x": 30, "y": 55 },
+    { "name": "Messi", "number": 10, "position": "RW", "x": 75, "y": 35 },
+    { "name": "Álvarez", "number": 9, "position": "ST", "x": 50, "y": 30 },
+    { "name": "Di María", "number": 11, "position": "LW", "x": 25, "y": 35 }
+  ],
+  "awayLineup": [
+    { "name": "Lloris", "number": 1, "position": "GK", "x": 50, "y": 10 },
+    { "name": "Koundé", "number": 5, "position": "RB", "x": 85, "y": 30 },
+    { "name": "Varane", "number": 4, "position": "CB", "x": 65, "y": 25 },
+    { "name": "Upamecano", "number": 18, "position": "CB", "x": 35, "y": 25 },
+    { "name": "T. Hernandez", "number": 22, "position": "LB", "x": 15, "y": 30 },
+    { "name": "Tchouaméni", "number": 8, "position": "RDM", "x": 60, "y": 45 },
+    { "name": "Rabiot", "number": 14, "position": "LDM", "x": 40, "y": 45 },
+    { "name": "Dembélé", "number": 11, "position": "RW", "x": 80, "y": 55 },
+    { "name": "Griezmann", "number": 7, "position": "AM", "x": 50, "y": 50 },
+    { "name": "Mbappé", "number": 10, "position": "LW", "x": 20, "y": 55 },
+    { "name": "Giroud", "number": 9, "position": "ST", "x": 50, "y": 65 }
+  ],
+  "timeline": [
+    { "minute": 0, "momentum": 0, "description": "Match kicks off." },
+    { "minute": 5, "momentum": 25, "description": "Argentina starts strong, pressing France high up the pitch." },
+    { "minute": 10, "momentum": 35, "description": "Mac Allister takes a shot from distance, saved by Lloris. Argentina dominates possession." },
+    { "minute": 17, "momentum": 40, "description": "Di María fires wide after a neat cutback from De Paul. France struggles to progress past half-court." },
+    { "minute": 21, "momentum": 60, "type": "FOUL", "team": "Argentina", "player": "Di María", "description": "Penalty awarded! Di María trickles past Dembélé in the box and is clipped from behind." },
+    { "minute": 23, "momentum": 80, "type": "GOAL", "team": "Argentina", "player": "Messi", "description": "GOAL! Lionel Messi converts the penalty with cool precision, placing it bottom right. Lloris dives opposite way.", "details": { "xG": 0.79 } },
+    { "minute": 30, "momentum": 70, "description": "Argentina maintains high block. France midfield (Griezmann, Tchouaméni) looks completely overrun." },
+    { "minute": 36, "momentum": 95, "type": "GOAL", "team": "Argentina", "player": "Di María", "description": "GOAL! A magnificent counter-attack. Messi releases Mac Allister, who squares a perfect cross for Di María to drill home!", "details": { "xG": 0.65 } },
+    { "minute": 41, "momentum": 85, "type": "SUBSTITUTION", "team": "France", "description": "France Double Sub: Giroud and Dembélé OUT, Kolo Muani and Marcus Thuram IN. Didier Deschamps changes tactics to a direct 4-2-4.", "details": { "subOut": "Dembélé, Giroud", "subIn": "Kolo Muani, Thuram" } },
+    { "minute": 45, "momentum": 75, "description": "First half ends. Argentina dominates 2-0. France finishes the half with 0 shots, 0 touches in the opponent's box." },
+    { "minute": 55, "momentum": 65, "description": "De Paul volley saved by Lloris. Argentina continues controlling tempo through Enzo Fernández and Mac Allister." },
+    { "minute": 64, "momentum": 50, "type": "SUBSTITUTION", "team": "Argentina", "description": "Tactical Change: Di María OUT, Acuña IN. Scaloni shifts to a defensive 4-4-2/4-5-1 shape to protect the lead.", "details": { "subOut": "Di María", "subIn": "Acuña" } },
+    { "minute": 70, "momentum": 40, "description": "Mbappé cuts inside and fires over the bar. France's first shot of the match. Momentum starts ticking slightly towards France." },
+    { "minute": 71, "momentum": 30, "type": "SUBSTITUTION", "team": "France", "description": "France Subs: Griezmann and Hernandez OUT, Coman and Camavinga IN. Camavinga plays as hybrid left-back, Coman adds raw width.", "details": { "subOut": "Griezmann, Hernandez", "subIn": "Coman, Camavinga" } },
+    { "minute": 79, "momentum": -20, "type": "FOUL", "team": "France", "player": "Kolo Muani", "description": "Penalty awarded to France! Otamendi is caught off-guard by Kolo Muani's speed, dragging him down inside the box." },
+    { "minute": 80, "momentum": -50, "type": "GOAL", "team": "France", "player": "Mbappé", "description": "GOAL! Mbappé squeezes the penalty under Martínez's outstretched hand. France pulls one back!", "details": { "xG": 0.79 } },
+    { "minute": 81, "momentum": -95, "type": "GOAL", "team": "France", "player": "Mbappé", "description": "GOAL! Absolute madness! Coman dispossesses Messi, Rabiot lofts it, and Mbappé plays a one-two with Thuram before hitting a sensational first-time volley!", "details": { "xG": 0.18 } },
+    { "minute": 90, "momentum": -30, "description": "Messi drives a powerful shot from the edge of the box, tipped over spectacularly by Lloris. 8 minutes of added time." },
+    { "minute": 95, "momentum": -40, "description": "Thuram booked for diving in the penalty box. Major referee decision: VAR confirms no contact." },
+    { "minute": 98, "momentum": 0, "description": "Full-time whistle. 2-2. The match heads into Extra Time. France completely dominated the final 15 minutes of regular time." },
+    { "minute": 102, "momentum": 20, "type": "SUBSTITUTION", "team": "Argentina", "description": "Argentina Subs: De Paul and Álvarez OUT, Paredes and Lautaro Martínez IN. Adding fresh legs and physicality to midfield.", "details": { "subOut": "De Paul, Álvarez", "subIn": "Paredes, L. Martínez" } },
+    { "minute": 105, "momentum": 40, "description": "Lautaro Martínez gets two clear chances, both blocked desperately by Upamecano. Argentina regains control." },
+    { "minute": 108, "momentum": 80, "type": "GOAL", "team": "Argentina", "player": "Messi", "description": "GOAL! Lautaro Martínez's fierce shot is saved by Lloris, but Lionel Messi scrambles the rebound over the line! Goal-line technology confirms it.", "details": { "xG": 0.82 } },
+    { "minute": 113, "momentum": 50, "description": "Varane goes off exhausted, Konaté IN. France throws everyone forward." },
+    { "minute": 117, "momentum": -40, "type": "FOUL", "team": "France", "player": "Mbappé", "description": "Penalty awarded to France! Mbappé's shot strikes Montiel's extended elbow in the box. Yellow card for Montiel." },
+    { "minute": 118, "momentum": -80, "type": "GOAL", "team": "France", "player": "Mbappé", "description": "GOAL! Mbappé completes his hat-trick, sending Martínez the wrong way. 3-3!", "details": { "xG": 0.79 } },
+    { "minute": 120, "momentum": -95, "description": "Unbelievable moment! Kolo Muani is clear on goal, but Emiliano Martínez pulls off a legendary, logic-defying spread save. On the counter, Lautaro headers wide." },
+    { "minute": 121, "momentum": 0, "description": "Final whistle! 3-3. The match goes to Penalties." }
+  ],
+  "refereeRulings": [
+    {
+      "minute": 21,
+      "decision": "Penalty Awarded to Argentina",
+      "ruling": "Correct Decision",
+      "explanation": "Ousmane Dembélé clipped Angel Di María from behind inside the penalty box. Although contact was minimal, Dembélé was clumsy, running into the back of Di María without touching the ball. Ref Szymon Marciniak pointed to the spot and VAR confirmed the decision."
+    },
+    {
+      "minute": 79,
+      "decision": "Penalty Awarded to France",
+      "ruling": "Correct Decision",
+      "explanation": "Nicolás Otamendi was caught on the wrong side of Kolo Muani, pulling him by the shoulder and tripping his heel. This was a clear denial of a goal-scoring opportunity in the box. No red card was shown due to double jeopardy rules (since there was an attempt to play the ball)."
+    },
+    {
+      "minute": 95,
+      "decision": "Yellow Card for Marcus Thuram (Simulation)",
+      "ruling": "Correct Decision",
+      "explanation": "Thuram fell inside the penalty area under pressure from Nahuel Molina. Polish referee Szymon Marciniak immediately carded Thuram for diving. VAR review showed Molina did not clip Thuram; Thuram trailed his leg to create contact."
+    },
+    {
+      "minute": 117,
+      "decision": "Penalty Awarded to France (Handball)",
+      "ruling": "Correct Decision",
+      "explanation": "Kylian Mbappé's shot hit Gonzalo Montiel's elbow. Montiel's arm was raised and away from his body, creating an unnaturally bigger silhouette. Under current IFAB rules, this is a clear handball offence, resulting in a penalty and a yellow card."
+    }
+  ]
+}

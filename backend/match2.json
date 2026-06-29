@@ -1,0 +1,110 @@
+{
+  "matchId": "custom_match_2",
+  "homeTeam": "Barcelona",
+  "awayTeam": "Bayern Munich",
+  "homeScore": 2,
+  "awayScore": 2,
+  "stats": {
+    "possession": {
+      "home": 61,
+      "away": 39
+    },
+    "shots": {
+      "home": 18,
+      "away": 12
+    },
+    "shotsOnTarget": {
+      "home": 9,
+      "away": 6
+    },
+    "xG": {
+      "home": 2.4,
+      "away": 1.9
+    },
+    "passes": {
+      "home": 715,
+      "away": 498
+    },
+    "passAccuracy": {
+      "home": 91,
+      "away": 85
+    },
+    "fouls": {
+      "home": 10,
+      "away": 14
+    },
+    "yellowCards": {
+      "home": 2,
+      "away": 3
+    },
+    "redCards": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  "homeFormation": "4-3-3",
+  "awayFormation": "4-2-3-1",
+  "homeLineup": [
+    {
+      "name": "Ter Stegen",
+      "number": 1,
+      "position": "GK",
+      "x": 50,
+      "y": 90
+    }
+  ],
+  "awayLineup": [
+    {
+      "name": "Neuer",
+      "number": 1,
+      "position": "GK",
+      "x": 50,
+      "y": 10
+    }
+  ],
+  "timeline": [
+    {
+      "minute": 0,
+      "momentum": 0,
+      "description": "Kickoff"
+    },
+    {
+      "minute": 12,
+      "momentum": 40,
+      "type": "GOAL",
+      "team": "Barcelona",
+      "description": "Lewandowski scores from close range."
+    },
+    {
+      "minute": 31,
+      "momentum": -25,
+      "type": "GOAL",
+      "team": "Bayern Munich",
+      "description": "Musiala equalizes with a long-range strike."
+    },
+    {
+      "minute": 45,
+      "momentum": 10,
+      "description": "Half Time"
+    },
+    {
+      "minute": 58,
+      "momentum": 65,
+      "type": "GOAL",
+      "team": "Barcelona",
+      "description": "Pedri curls one into the top corner."
+    },
+    {
+      "minute": 84,
+      "momentum": -40,
+      "type": "GOAL",
+      "team": "Bayern Munich",
+      "description": "Kane scores a late equalizer."
+    },
+    {
+      "minute": 90,
+      "momentum": 5,
+      "description": "Full Time"
+    }
+  ]
+}
